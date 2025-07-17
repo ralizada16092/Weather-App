@@ -8,7 +8,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploy": "build"
+    "deploy": "build",
+    "homepage": "https://ralizada16092.github.io/Weather-App"
   },
   "dependencies": {
     "react": "^19.1.0",
